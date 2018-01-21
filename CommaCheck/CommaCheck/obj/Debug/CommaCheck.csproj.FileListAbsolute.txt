@@ -1,0 +1,7 @@
+C:\Users\Rasha\source\repos\CommaCheck\CommaCheck\bin\Debug\CommaCheck.exe.config
+C:\Users\Rasha\source\repos\CommaCheck\CommaCheck\bin\Debug\CommaCheck.exe
+C:\Users\Rasha\source\repos\CommaCheck\CommaCheck\bin\Debug\CommaCheck.pdb
+C:\Users\Rasha\source\repos\CommaCheck\CommaCheck\obj\Debug\CommaCheck.csprojResolveAssemblyReference.cache
+C:\Users\Rasha\source\repos\CommaCheck\CommaCheck\obj\Debug\CommaCheck.csproj.CoreCompileInputs.cache
+C:\Users\Rasha\source\repos\CommaCheck\CommaCheck\obj\Debug\CommaCheck.exe
+C:\Users\Rasha\source\repos\CommaCheck\CommaCheck\obj\Debug\CommaCheck.pdb

@@ -1,0 +1,7 @@
+C:\Users\Rasha\source\repos\GuessRight\GuessRight\obj\Debug\GuessRight.csprojResolveAssemblyReference.cache
+C:\Users\Rasha\source\repos\GuessRight\GuessRight\obj\Debug\GuessRight.csproj.CoreCompileInputs.cache
+C:\Users\Rasha\source\repos\GuessRight\GuessRight\bin\Debug\GuessRight.exe.config
+C:\Users\Rasha\source\repos\GuessRight\GuessRight\bin\Debug\GuessRight.exe
+C:\Users\Rasha\source\repos\GuessRight\GuessRight\bin\Debug\GuessRight.pdb
+C:\Users\Rasha\source\repos\GuessRight\GuessRight\obj\Debug\GuessRight.exe
+C:\Users\Rasha\source\repos\GuessRight\GuessRight\obj\Debug\GuessRight.pdb

@@ -1,0 +1,7 @@
+C:\Users\Rasha\source\repos\SpeedCheckerLogic\SpeedCheckerLogic\bin\Debug\SpeedCheckerLogic.exe.config
+C:\Users\Rasha\source\repos\SpeedCheckerLogic\SpeedCheckerLogic\bin\Debug\SpeedCheckerLogic.exe
+C:\Users\Rasha\source\repos\SpeedCheckerLogic\SpeedCheckerLogic\bin\Debug\SpeedCheckerLogic.pdb
+C:\Users\Rasha\source\repos\SpeedCheckerLogic\SpeedCheckerLogic\obj\Debug\SpeedCheckerLogic.csprojResolveAssemblyReference.cache
+C:\Users\Rasha\source\repos\SpeedCheckerLogic\SpeedCheckerLogic\obj\Debug\SpeedCheckerLogic.csproj.CoreCompileInputs.cache
+C:\Users\Rasha\source\repos\SpeedCheckerLogic\SpeedCheckerLogic\obj\Debug\SpeedCheckerLogic.exe
+C:\Users\Rasha\source\repos\SpeedCheckerLogic\SpeedCheckerLogic\obj\Debug\SpeedCheckerLogic.pdb

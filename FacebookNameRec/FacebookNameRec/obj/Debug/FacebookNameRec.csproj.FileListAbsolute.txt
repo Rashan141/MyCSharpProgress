@@ -1,0 +1,7 @@
+C:\Users\Rasha\source\repos\FacebookNameRec\FacebookNameRec\bin\Debug\FacebookNameRec.exe.config
+C:\Users\Rasha\source\repos\FacebookNameRec\FacebookNameRec\bin\Debug\FacebookNameRec.exe
+C:\Users\Rasha\source\repos\FacebookNameRec\FacebookNameRec\bin\Debug\FacebookNameRec.pdb
+C:\Users\Rasha\source\repos\FacebookNameRec\FacebookNameRec\obj\Debug\FacebookNameRec.csprojResolveAssemblyReference.cache
+C:\Users\Rasha\source\repos\FacebookNameRec\FacebookNameRec\obj\Debug\FacebookNameRec.csproj.CoreCompileInputs.cache
+C:\Users\Rasha\source\repos\FacebookNameRec\FacebookNameRec\obj\Debug\FacebookNameRec.exe
+C:\Users\Rasha\source\repos\FacebookNameRec\FacebookNameRec\obj\Debug\FacebookNameRec.pdb

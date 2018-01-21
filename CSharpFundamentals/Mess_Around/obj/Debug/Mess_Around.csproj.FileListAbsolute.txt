@@ -1,0 +1,7 @@
+C:\Users\Rasha\source\repos\CSharpFundamentals\Mess_Around\bin\Debug\Mess_Around.exe.config
+C:\Users\Rasha\source\repos\CSharpFundamentals\Mess_Around\bin\Debug\Mess_Around.exe
+C:\Users\Rasha\source\repos\CSharpFundamentals\Mess_Around\bin\Debug\Mess_Around.pdb
+C:\Users\Rasha\source\repos\CSharpFundamentals\Mess_Around\obj\Debug\Mess_Around.csprojResolveAssemblyReference.cache
+C:\Users\Rasha\source\repos\CSharpFundamentals\Mess_Around\obj\Debug\Mess_Around.csproj.CoreCompileInputs.cache
+C:\Users\Rasha\source\repos\CSharpFundamentals\Mess_Around\obj\Debug\Mess_Around.exe
+C:\Users\Rasha\source\repos\CSharpFundamentals\Mess_Around\obj\Debug\Mess_Around.pdb

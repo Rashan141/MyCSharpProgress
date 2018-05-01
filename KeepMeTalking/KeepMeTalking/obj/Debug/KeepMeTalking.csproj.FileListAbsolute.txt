@@ -1,0 +1,7 @@
+C:\Users\Rasha\source\repos\KeepMeTalking\KeepMeTalking\bin\Debug\KeepMeTalking.exe.config
+C:\Users\Rasha\source\repos\KeepMeTalking\KeepMeTalking\bin\Debug\KeepMeTalking.exe
+C:\Users\Rasha\source\repos\KeepMeTalking\KeepMeTalking\bin\Debug\KeepMeTalking.pdb
+C:\Users\Rasha\source\repos\KeepMeTalking\KeepMeTalking\obj\Debug\KeepMeTalking.csprojResolveAssemblyReference.cache
+C:\Users\Rasha\source\repos\KeepMeTalking\KeepMeTalking\obj\Debug\KeepMeTalking.csproj.CoreCompileInputs.cache
+C:\Users\Rasha\source\repos\KeepMeTalking\KeepMeTalking\obj\Debug\KeepMeTalking.exe
+C:\Users\Rasha\source\repos\KeepMeTalking\KeepMeTalking\obj\Debug\KeepMeTalking.pdb

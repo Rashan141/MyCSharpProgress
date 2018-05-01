@@ -1,0 +1,7 @@
+C:\Users\Rasha\source\repos\StringWork\StringWork\obj\Debug\StringWork.csprojResolveAssemblyReference.cache
+C:\Users\Rasha\source\repos\StringWork\StringWork\obj\Debug\StringWork.csproj.CoreCompileInputs.cache
+C:\Users\Rasha\source\repos\StringWork\StringWork\bin\Debug\StringWork.exe.config
+C:\Users\Rasha\source\repos\StringWork\StringWork\bin\Debug\StringWork.exe
+C:\Users\Rasha\source\repos\StringWork\StringWork\bin\Debug\StringWork.pdb
+C:\Users\Rasha\source\repos\StringWork\StringWork\obj\Debug\StringWork.exe
+C:\Users\Rasha\source\repos\StringWork\StringWork\obj\Debug\StringWork.pdb

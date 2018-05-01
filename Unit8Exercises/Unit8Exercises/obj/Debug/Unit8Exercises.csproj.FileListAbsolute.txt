@@ -1,0 +1,7 @@
+C:\Users\Rasha\source\repos\Unit8Exercises\Unit8Exercises\bin\Debug\Unit8Exercises.exe.config
+C:\Users\Rasha\source\repos\Unit8Exercises\Unit8Exercises\bin\Debug\Unit8Exercises.exe
+C:\Users\Rasha\source\repos\Unit8Exercises\Unit8Exercises\bin\Debug\Unit8Exercises.pdb
+C:\Users\Rasha\source\repos\Unit8Exercises\Unit8Exercises\obj\Debug\Unit8Exercises.csproj.CoreCompileInputs.cache
+C:\Users\Rasha\source\repos\Unit8Exercises\Unit8Exercises\obj\Debug\Unit8Exercises.exe
+C:\Users\Rasha\source\repos\Unit8Exercises\Unit8Exercises\obj\Debug\Unit8Exercises.pdb
+C:\Users\Rasha\source\repos\Unit8Exercises\Unit8Exercises\obj\Debug\Unit8Exercises.csprojResolveAssemblyReference.cache
